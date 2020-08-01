@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "_id": "dress 1",
+            "title": "Midi sundress with shirring details",
+            "image": "/images/dress1.jpg",
+            "description": "This is all for the latest trends no matter",
+            "price": 999.00,
+            "availableSizes": ["X", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress 2",
+            "title": "Midi sundress with ruched front",
+            "image": "/images/dress2.jpg",
+            "description": "This is all for the latest trends no matter",
+            "price": 3399.00,
+            "availableSizes": ["X", "M", "L"]
+        },
+        {
+            "_id": "dress 3",
+            "title": "Midi sundress with dress 3 details",
+            "image": "/images/dress3.jpg",
+            "description": "This is all for the latest trends no matter",
+            "price": 1599.00,
+            "availableSizes": ["L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress 4",
+            "title": "Midi sundress with dress 4 details",
+            "image": "/images/dress4.jpg",
+            "description": "This is all for the latest trends no matter",
+            "price": 1399.00,
+            "availableSizes": ["X", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress 5",
+            "title": "Midi sundress with dress 5 details",
+            "image": "/images/dress5.jpg",
+            "description": "This is all for the latest trends no matter",
+            "price": 2594.00,
+            "availableSizes": ["X", "L", "XXL"]
+        },
+        {
+            "_id": "dress 6",
+            "title": "Midi sundress with dress 6 details",
+            "image": "/images/dress6.jpg",
+            "description": "This is all for the latest trends no matter",
+            "price": 1599.00,
+            "availableSizes": ["X", "L", "XL", "XXL"] 
+        }
+    ]
+}
